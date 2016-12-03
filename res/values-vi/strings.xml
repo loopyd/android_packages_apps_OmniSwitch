@@ -25,6 +25,7 @@
   <string name="opacity_summary">Độ mờ của overlay</string>
   <string name="animate_title">Hoạt ảnh</string>
   <string name="animate_title_summary">Hoạt ảnh hiện và ẩn overlay</string>
+  <string name="adjust_handle_help">Di chuyển và thay đổi chốt kéo</string>
   <string name="icon_size_normal">Trung bình</string>
   <string name="icon_size_small">Nhỏ</string>
   <string name="icon_size_large">Lớn</string>
@@ -40,6 +41,7 @@
   <string name="show_app_labels">Hiển thị tên ứng dụng</string>
   <string name="show_app_labels_summary">Tên ứng dụng sẽ được hiển thị với biểu tượng</string>
   <string name="category_overlay_title">Overlay</string>
+  <string name="category_drag_handle_title">Chốt kéo</string>
   <string name="category_favorite_title">Yêu thích</string>
   <string name="favorite_apps_config_title">Quản lý mục yêu thích</string>
   <string name="favorite_apps_config_summary">Xác định ứng dụng hiển thị trong chế độ xem yêu thích</string>
@@ -70,7 +72,9 @@
   <string name="allapps">Ứng dụng</string>
   <string name="dim_behind_title">Nền mờ</string>
   <string name="dim_behind_summary">Áp dụng độ mờ cho toàn bộ màn hình</string>
+  <string name="gravity_title">Canh theo chiều ngang</string>
   <string name="gravity_center">Giữa</string>
+  <string name="gravity_drag">Phía chốt kéo</string>
   <string name="dialog_pick_iconpack_title">Chọn gói biểu tượng</string>
   <string name="default_iconpack_title">Biểu tượng mặc định</string>
   <string name="icon_packs_title">Gói biểu tượng</string>
@@ -78,6 +82,7 @@
   <string name="icon_pack_title">Gói biểu tượng</string>
   <string name="icon_pack_summary">Sử dụng gói biểu tượng cho các biểu tượng ứng dụng</string>
   <string name="category_speed_switcher_title">Bộ chuyển nhanh</string>
+  <string name="speed_switcher_enable_summary">Nhấn giữ chốt kéo để kích hoạt</string>
   <string name="speed_switcher_enable_title">Bật</string>
   <string name="back">Trở lại</string>
   <string name="back_help">Trở lại</string>
@@ -139,6 +144,7 @@
   <string name="package_right_task_title">Phải</string>
   <string name="package_full_task_title">Kích thước đầy đủ</string>
   <string name="shortcut_label_toggle_overlay">Bật tắt overlay</string>
+  <string name="adjust_handle_title_new">Cấu hình chốt kéo</string>
   <string name="adjust_handle_summary">Cấu hình kích thước vị trí và màu sắc</string>
   <string name="settings_button_text">Cài đặt</string>
   <string name="wallpaper_button_text">Hình nền</string>

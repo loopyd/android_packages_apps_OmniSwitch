@@ -17,7 +17,7 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="package_stop_task_title">Stop</string>
+  <string name="package_stop_task_title">Stopp</string>
   <string name="package_inspect_item_title">App Info</string>
   <string name="start_on_boot_title">Beim Hochfahren starten</string>
   <string name="start_on_boot_summary">Starten und beim Hochfahren des Geräts aktivieren</string>
@@ -40,7 +40,7 @@
   <string name="show_rambar_summary">Zeigt die Menge des freien und benutzten Speichers an</string>
   <string name="show_app_labels">App-Namen anzeigen</string>
   <string name="show_app_labels_summary">Anwendungsname wird mit dem Symbol angezeigt</string>
-  <string name="category_overlay_title">Overlay</string>
+  <string name="category_overlay_title">Überlagerung</string>
   <string name="category_drag_handle_title">Ziehgriff</string>
   <string name="category_favorite_title">Favoriten</string>
   <string name="favorite_apps_config_title">Favoriten verwalten</string>
@@ -92,12 +92,12 @@
   <string name="speed_switch_color">Hintergrund Farben Level</string>
   <string name="speed_switch_limit_summary">Limit-Bereich für Pegeländerungen</string>
   <string name="speed_switch_limit">Änderrungsbereich Ebenen</string>
-  <string name="speed_switch_button_title">Buttons</string>
+  <string name="speed_switch_button_title">Schaltflächen</string>
   <string name="speed_switch_button_summary">Aktionstasten konfigurieren in Quick Switch Modus</string>
   <string name="speed_switch_items_summary">Maximale Anzahl an Elementen</string>
   <string name="speed_switch_item">Limit der Elemente richten</string>
   <string name="immersive_mode">Immersiver Modus</string>
-  <string name="immersive_mode_help">Immersive Modus anschalten</string>
+  <string name="immersive_mode_help">Erweiterten Desktop umschalten</string>
   <string name="package_add_favorite_title">Zu Favoriten hinzufügen</string>
   <string name="package_remove_favorite_title">Aus Favoriten entfernen</string>
   <string name="open_favorite_help">Favoritenansicht Öffnen/Schließen</string>
@@ -128,7 +128,7 @@
   <string name="close">Schliessen</string>
   <string name="thumb_size_title">Thumbnailgröße</string>
   <string name="thumb_size_normal">Normal</string>
-  <string name="thumb_size_small">Kein</string>
+  <string name="thumb_size_small">Klein</string>
   <string name="thumb_size_medium">Medium</string>
   <string name="package_lock_task_title">App anheften</string>
   <string name="lock_app_not_enabled">Bildschirm fixieren ist in den Sicherheits-Einstellungen nicht aktiviert</string>

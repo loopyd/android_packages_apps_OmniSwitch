@@ -63,7 +63,7 @@
   <string name="buttons_title">Boutons</string>
   <string name="buttons_summary">Afficher les boutons d\'action dans la vue superposée</string>
   <string name="auto_hide_handle">Masquage automatique</string>
-  <string name="auto_hide_handle_summary">Deux glissements pour afficher la vue de superposée</string>
+  <string name="auto_hide_handle_summary">Deux glissements pour afficher la vue superposée</string>
   <string name="no_recent_apps_title">Aucune application récente</string>
   <string name="drag_handle_opacity_title">Transparence</string>
   <string name="drag_handle_enable_title">Activer</string>

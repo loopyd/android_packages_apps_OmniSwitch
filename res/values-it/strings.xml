@@ -30,7 +30,7 @@
   <string name="icon_size_small">Piccola</string>
   <string name="icon_size_large">Grande</string>
   <string name="icon_size_title">Dimensione icona</string>
-  <string name="ok">Ok</string>
+  <string name="ok">OK</string>
   <string name="cancel">Annulla</string>
   <string name="drag_handle_color_title">Colore</string>
   <string name="drag_handle_color_dialog_title">Colore</string>
@@ -38,7 +38,7 @@
   <string name="service_foreground_processes"><xliff:g id="memory">%1$s</xliff:g> usati</string>
   <string name="show_rambar_title">Mostra utilizzo memoria</string>
   <string name="show_rambar_summary">Visualizza la memoria libera e quella usata della Ram</string>
-  <string name="show_app_labels">Mostra il nome dell\'app</string>
+  <string name="show_app_labels">Mostra nome app</string>
   <string name="show_app_labels_summary">Il nome dell\'applicazione sarà visualizzato con l\'icona</string>
   <string name="category_overlay_title">Sovrapposizione</string>
   <string name="category_drag_handle_title">Zona di apertura</string>
@@ -61,7 +61,7 @@
   <string name="settings">Impostazioni</string>
   <string name="home">Home</string>
   <string name="buttons_title">Pulsanti</string>
-  <string name="buttons_summary">Configura i pulsanti di azione della sovrapposizione</string>
+  <string name="buttons_summary">Configura l\'azione dei pulsanti con visualizzazione sovrapposta</string>
   <string name="auto_hide_handle">Nascondi automaticamente</string>
   <string name="auto_hide_handle_summary">Due tocchi per mostrare la sovrapposizione</string>
   <string name="no_recent_apps_title">Nessuna app recente</string>
@@ -73,7 +73,7 @@
   <string name="dim_behind_title">Oscura sfondo</string>
   <string name="dim_behind_summary">Applica opacità a tutto lo schermo</string>
   <string name="gravity_title">Gravità orizzontale</string>
-  <string name="gravity_center">Centro</string>
+  <string name="gravity_center">Al centro</string>
   <string name="gravity_drag">Lato trascinamento</string>
   <string name="dialog_pick_iconpack_title">Scegli pacchetto icone</string>
   <string name="default_iconpack_title">Icone predefinite</string>
@@ -81,9 +81,9 @@
   <string name="no_iconpacks_summary">Nessun pacchetto icone installato</string>
   <string name="icon_pack_title">Pacchetto icone</string>
   <string name="icon_pack_summary">Usa il pacchetto icone per le icone delle app</string>
-  <string name="category_speed_switcher_title">Interruttore rapido</string>
+  <string name="category_speed_switcher_title">Interruttore Rapido</string>
   <string name="speed_switcher_enable_summary">Premi a lungo la zona di apertura per attivare</string>
-  <string name="speed_switcher_enable_title">Attiva</string>
+  <string name="speed_switcher_enable_title">Abilita</string>
   <string name="back">Indietro</string>
   <string name="back_help">Indietro</string>
   <string name="kill_current">Chiudi corrente</string>

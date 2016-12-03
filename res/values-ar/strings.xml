@@ -21,6 +21,7 @@
   <string name="package_inspect_item_title">معلومات التطبيق</string>
   <string name="start_on_boot_title">بدء بعد إعادة التشغيل</string>
   <string name="start_on_boot_summary">بدء تشغيل وتمكين على جهاز التمهيد</string>
+  <string name="opacity_title">الشفافية</string>
   <string name="icon_size_small">صغير</string>
   <string name="icon_size_large">ضخم</string>
   <string name="icon_size_title">حجم الأيقونة</string>
@@ -28,6 +29,13 @@
   <string name="cancel">الغاء</string>
   <string name="drag_handle_color_title">لون</string>
   <string name="drag_handle_color_dialog_title">لون</string>
+  <string name="service_background_processes">المتاحة <xliff:g id="الذاكرة">%1$s</xliff:g></string>
+  <string name="service_foreground_processes"><xliff:g id="الذاكرة">%1$s</xliff:g> المستخدمة</string>
+  <string name="show_rambar_title">إظهار استخدام الذاكرة</string>
+  <string name="show_rambar_summary">عرض مقدار الذاكرة المتوفرة والمستخدمة</string>
+  <string name="show_app_labels">إظهار اسم التطبيق</string>
+  <string name="show_app_labels_summary">سيتم عرض اسم التطبيق مع الأيقونة</string>
+  <string name="category_favorite_title">المفضلة</string>
   <string name="favorite_apps_config_title">إدارة المفضلة</string>
   <string name="favorite_apps_config_summary">تحديد تطبيقات التي ستظهر في عرض المفضلة</string>
   <string name="favorite_apps_add_dialog_title">إضافة تطبيقات</string>
@@ -37,6 +45,8 @@
   <string name="toggle_last_app">التطبيق الأخير</string>
   <string name="toggle_last_app_help">قم بالتبديل إلى التطبيق الأخير</string>
   <string name="kill_all_apps_help">قتل جميع تطبيقات</string>
+  <string name="kill_other_apps_help">قتل التطبيقات الأخرى</string>
+  <string name="settings_help">الإعدادات</string>
   <string name="auto_hide_handle">إخفاء تلقائي</string>
   <string name="no_recent_apps_title">لا توجد تطبيقات</string>
   <string name="drag_handle_opacity_title">الشفافية</string>
