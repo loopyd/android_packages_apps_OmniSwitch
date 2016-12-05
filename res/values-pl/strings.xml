@@ -47,8 +47,8 @@
   <string name="favorite_apps_config_summary">Zdefiniuj aplikacje pokazywane w widoku ulubionych</string>
   <string name="favorite_apps_add_dialog_title">Dodaj aplikacje</string>
   <string name="favorite_add">Dodaj\u2026</string>
-  <string name="location_left">Lewo</string>
-  <string name="location_right">Prawo</string>
+  <string name="location_left">Po lewej</string>
+  <string name="location_right">Po prawej</string>
   <string name="reset">Domyślne</string>
   <string name="toggle_last_app">Ostatnia aplikacja</string>
   <string name="toggle_last_app_help">Przełącz na ostatnią aplikacje</string>
@@ -139,9 +139,9 @@
   <string name="adjust_handle_width">Szerokość</string>
   <string name="adjust_handle_position">Pozycja</string>
   <string name="package_top_task_title">Góra</string>
-  <string name="package_left_task_title">Lewo</string>
+  <string name="package_left_task_title">Po lewej</string>
   <string name="package_bottom_task_title">Na dole</string>
-  <string name="package_right_task_title">Prawo</string>
+  <string name="package_right_task_title">Po prawej</string>
   <string name="package_full_task_title">Pełny rozmiar</string>
   <string name="shortcut_label_toggle_overlay">Przełącznik nakładki</string>
   <string name="adjust_handle_title_new">Skonfiguruj uchwyt przeciągania</string>
