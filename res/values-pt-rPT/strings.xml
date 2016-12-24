@@ -37,7 +37,7 @@
   <string name="service_background_processes"><xliff:g id="Memory"> %1$s </xliff:g> livres</string>
   <string name="service_foreground_processes"><xliff:g id="memory"> %1$s </xliff:g> em uso</string>
   <string name="show_rambar_title">Mostrar o uso de memória</string>
-  <string name="show_rambar_summary">Mostrar a quantidade de memória livre e usada</string>
+  <string name="show_rambar_summary">Mostra a quantidade de memória livre e usada</string>
   <string name="show_app_labels">Mostrar nome da aplicação</string>
   <string name="show_app_labels_summary">Nome da aplicação será mostrada com o ícone</string>
   <string name="category_overlay_title">Sobreposição</string>

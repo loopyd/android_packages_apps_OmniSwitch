@@ -20,12 +20,12 @@
   <string name="package_stop_task_title">Διακοπή</string>
   <string name="package_inspect_item_title">Πληροφορίες εφαρμογής</string>
   <string name="start_on_boot_title">Έναρξη κατά την εκκίνηση</string>
-  <string name="start_on_boot_summary">Έναρξη και ενεργοποίησή κατά την εκκίνηση της συσκευής</string>
+  <string name="start_on_boot_summary">Έναρξη και ενεργοποίηση κατά την εκκίνηση της συσκευής</string>
   <string name="opacity_title">Αδιαφάνεια</string>
   <string name="opacity_summary">Αδιαφάνεια της προβολής επικάλυψης</string>
   <string name="animate_title">Κίνηση</string>
   <string name="animate_title_summary">Κίνηση εμφάνισης και απόκρυψης της επικάλυψης προβολής</string>
-  <string name="adjust_handle_help">Μετακίνησης και αλλαγή μεγέθους της λαβής μεταφοράς</string>
+  <string name="adjust_handle_help">Μετακίνηση και αλλαγή μεγέθους της λαβής μεταφοράς</string>
   <string name="icon_size_normal">Κανονικό</string>
   <string name="icon_size_small">Μικρό</string>
   <string name="icon_size_large">Μεγάλο</string>
@@ -34,9 +34,9 @@
   <string name="cancel">Ακύρωση</string>
   <string name="drag_handle_color_title">Χρώμα</string>
   <string name="drag_handle_color_dialog_title">Χρώμα</string>
-  <string name="service_background_processes"><xliff:g id="Memory">%1$s</xliff:g> ελεύθ</string>
-  <string name="service_foreground_processes"><xliff:g id="memory">%1$s </xliff:g> χρησ.</string>
-  <string name="show_rambar_title">Εμφάνιση χρήσης μνήμης</string>
+  <string name="service_background_processes"><xliff:g id="Memory">%1$s</xliff:g> ελεύθερη</string>
+  <string name="service_foreground_processes"><xliff:g id="memory">%1$s </xliff:g> χρησημοποιείται</string>
+  <string name="show_rambar_title">Εμφάνιση χρήση μνήμης</string>
   <string name="show_rambar_summary">Εμφάνιση του ποσού της ελεύθερης και χρησιμοποιημένης μνήμης</string>
   <string name="show_app_labels">Εμφάνιση ονόματος εφαρμογής</string>
   <string name="show_app_labels_summary">Το όνομα της εφαρμογής θα εμφανιστεί με το εικονίδιο</string>
@@ -61,7 +61,7 @@
   <string name="settings">Ρυθμίσεις</string>
   <string name="home">Αρχική σελίδα</string>
   <string name="buttons_title">Πλήκτρα</string>
-  <string name="buttons_summary">Ρυθμίση κουμπιών ενεργειών στην γρήγορη εναλλαγή προβολής</string>
+  <string name="buttons_summary">Ρύθμιση κουμπιών ενεργειών στην προβολή επικάλυψης</string>
   <string name="auto_hide_handle">Αυτόματη απόκρυψη</string>
   <string name="auto_hide_handle_summary">Δύο συρσίματα για να εμφανιστεί η προβολή επικάλυψης</string>
   <string name="no_recent_apps_title">Δεν υπάρχουν πρόσφατες εφαρμογές</string>

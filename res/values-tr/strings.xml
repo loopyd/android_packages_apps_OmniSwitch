@@ -93,7 +93,7 @@
   <string name="speed_switch_limit_summary">Seviye değişiklikleri için alanı sınırla</string>
   <string name="speed_switch_limit">Seviye değişim alanı</string>
   <string name="speed_switch_button_title">Tuşlar</string>
-  <string name="speed_switch_button_summary">Hızlı değiştirici görünümünde aksiyon düğmelerini yapılandırma</string>
+  <string name="speed_switch_button_summary">Hızlı değiştirici görünümünde eylem tuşlarını yapılandırma</string>
   <string name="speed_switch_items_summary">Seviye öğelerinin maksimum sayısı</string>
   <string name="speed_switch_item">Seviye öğeleri limiti</string>
   <string name="immersive_mode">Sürükleme modu</string>

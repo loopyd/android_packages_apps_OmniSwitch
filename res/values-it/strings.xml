@@ -149,9 +149,9 @@
   <string name="settings_button_text">Impostazioni</string>
   <string name="wallpaper_button_text">Sfondo</string>
   <string name="category_launcher_title">Modalità di avvio</string>
-  <string name="launcher_mode_summary">Eseguire OmniSwitch anche come launcher. Dopo l\'attivazione premere home e selezionare OmniSwitch</string>
-  <string name="launcher_mode_title">Abilita</string>
-  <string name="launcher_mode_enable_check">Impossibile disabilitare se è stata attiva in modalità launcher. Verrà attivato nuovamente quando la modalità launcher sarà attiva</string>
+  <string name="launcher_mode_summary">Esegui OmniSwitch anche come launcher. Dopo l\'attivazione premi home e seleziona OmniSwitch</string>
+  <string name="launcher_mode_title">Attiva</string>
+  <string name="launcher_mode_enable_check">Impossibile disabilitare se la modalità launcher è attiva. Verrà abilitato nuovamente quando la modalità launcher sarà attiva</string>
   <string name="welcome_cling_header">Benvenuti nella modalità OmniSwitch launcher</string>
   <string name="welcome_cling_description">Buon divertimento con un launcher minimalista che si concentra sul lancio di app e commutazione. Scorri in un punto qualsiasi per aprire OmniSwitch.</string>
   <string name="welcome_cling_dismiss">Capito</string>
@@ -160,12 +160,12 @@
   <string name="launch_stats_delete_title">Cancella statistiche</string>
   <string name="launch_stats_delete_summary">Cancella le attuali statistiche di avvio raccolte</string>
   <string name="favorite_apps_config_stat_title">Preferiti delle statistiche</string>
-  <string name="favorite_apps_config_stat_summary">Creare una lista di preferiti sulla base di statistiche di avvio raccolte</string>
+  <string name="favorite_apps_config_stat_summary">Crea una lista di preferiti sulla base delle statistiche di avvio raccolte</string>
   <string name="launch_stats_delete_notice">Statistiche di avvio eliminate</string>
   <string name="launch_stats_low_title">Gestisci i preferiti</string>
   <string name="launch_stats_low_notice">Dati insufficienti per creare una lista di applicazioni preferite. Vuoi davvero continuare?</string>
   <string name="revert_recents_summary">Riempi le applicazioni recenti dal basso</string>
   <string name="revert_recents_title">Ripristina l\'elenco delle applicazioni recenti</string>
   <string name="dialog_overlay_perms_title">Errore di autorizzazione di OmniSwitch</string>
-  <string name="dialog_overlay_perms_msg">Abilita \u0022 Visualizza sopra ad altre applicazioni \u0022 permesso</string>
+  <string name="dialog_overlay_perms_msg">Attiva \u0022 Visualizza sopra ad altre applicazioni \u0022 permesso</string>
 </resources>
