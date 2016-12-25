@@ -21,7 +21,20 @@
   <string name="package_inspect_item_title">Подаци о апликацији</string>
   <string name="start_on_boot_title">Покрени при подизању система</string>
   <string name="start_on_boot_summary">Покретање и укључивање при подизању система</string>
+  <string name="opacity_title">Прозирност</string>
   <string name="animate_title">Анимирај</string>
+  <string name="icon_size_normal">Нормална</string>
+  <string name="icon_size_small">Мала</string>
+  <string name="icon_size_large">Велика</string>
+  <string name="icon_size_title">Величина иконе</string>
+  <string name="ok">У реду</string>
+  <string name="cancel">Одустани</string>
+  <string name="drag_handle_color_title">Боја</string>
   <string name="drag_handle_color_dialog_title">Боја</string>
-  <string name="category_favorite_title">Омиљено</string>
+  <string name="service_background_processes"><xliff:g id="memory">%1$s</xliff:g> слободно</string>
+  <string name="service_foreground_processes"><xliff:g id="memory">%1$s</xliff:g> у употреби</string>
+  <string name="show_rambar_title">Прикажи употребу меморије</string>
+  <string name="show_rambar_summary">Приказ слободне и меморије у употреби</string>
+  <string name="show_app_labels">Прикажи назив апликације</string>
+  <string name="category_favorite_title">Омиљене</string>
 </resources>
