@@ -37,6 +37,8 @@
   <string name="category_favorite_title">מועדפים</string>
   <string name="favorite_apps_config_title">נהל מועדפים</string>
   <string name="favorite_apps_add_dialog_title">הוסף יישומים</string>
+  <string name="location_left">שמאל</string>
+  <string name="location_right">ימין</string>
   <string name="reset">ברירת מחדל</string>
   <string name="toggle_last_app">יישום אחרון</string>
   <string name="toggle_last_app_help">עבור ליישום אחרון</string>
@@ -50,4 +52,7 @@
   <string name="home">בית</string>
   <string name="auto_hide_handle">הסתר אוטומטית</string>
   <string name="no_recent_apps_title">אין יישומים אחרונים</string>
+  <string name="drag_handle_enable_title">הפעל</string>
+  <string name="drag_handle_enable_summary">השבת רק אם שיטת הפעלה אחרת בשימוש</string>
+  <string name="allapps">יישומים</string>
 </resources>
