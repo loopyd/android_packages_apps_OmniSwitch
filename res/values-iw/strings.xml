@@ -21,6 +21,8 @@
   <string name="package_inspect_item_title">פרטי יישום</string>
   <string name="start_on_boot_title">הפעל באתחול</string>
   <string name="start_on_boot_summary">התחל והפעל באתחול מכשיר</string>
+  <string name="opacity_title">אטימות</string>
+  <string name="opacity_summary">אטימות רקע של שכבת תצוגה</string>
   <string name="animate_title">הנפשה</string>
   <string name="icon_size_normal">רגיל</string>
   <string name="icon_size_small">קטן</string>
