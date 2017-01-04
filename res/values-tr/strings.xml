@@ -96,7 +96,7 @@
   <string name="speed_switch_button_summary">Hızlı değiştirici görünümünde eylem tuşlarını yapılandırma</string>
   <string name="speed_switch_items_summary">Seviye öğelerinin maksimum sayısı</string>
   <string name="speed_switch_item">Seviye öğeleri limiti</string>
-  <string name="immersive_mode">Sürükleme modu</string>
+  <string name="immersive_mode">Tam ekran modu</string>
   <string name="immersive_mode_help">Sürükleme moduna geç</string>
   <string name="package_add_favorite_title">Favorilere ekle</string>
   <string name="package_remove_favorite_title">Favorilerden kaldır</string>
