@@ -97,7 +97,7 @@
   <string name="speed_switch_items_summary">Numero massimo di voci</string>
   <string name="speed_switch_item">Limitare il numero di voci</string>
   <string name="immersive_mode">Modalità Immersiva</string>
-  <string name="immersive_mode_help">Attiva la modalità immersiva</string>
+  <string name="immersive_mode_help">Attiva o disattiva modalità immersiva</string>
   <string name="package_add_favorite_title">Aggiungi ai preferiti</string>
   <string name="package_remove_favorite_title">Rimuovi dai preferiti</string>
   <string name="open_favorite_help">Apri/Chiudi lista preferiti</string>
