@@ -72,6 +72,7 @@
   <string name="allapps">アプリ</string>
   <string name="dim_behind_title">暗い背景</string>
   <string name="dim_behind_summary">画面全体に不透明度を適用します</string>
+  <string name="gravity_title">水平重力</string>
   <string name="gravity_center">中央</string>
   <string name="gravity_drag">ドラッグハンドル側</string>
   <string name="dialog_pick_iconpack_title">アイコンパックを選択</string>
@@ -87,6 +88,10 @@
   <string name="back_help">戻る</string>
   <string name="kill_current">現在のアプリを終了</string>
   <string name="kill_current_help">現在のアプリを終了する</string>
+  <string name="speed_switch_color_summary">青 - 最近使ったアプリ　緑 - お気に入り　赤 - アクション</string>
+  <string name="speed_switch_color">背景色のレベル</string>
+  <string name="speed_switch_limit_summary">制限エリアのレベル変更</string>
+  <string name="speed_switch_limit">エリアのレベルを変更</string>
   <string name="speed_switch_button_title">ボタン</string>
   <string name="speed_switch_button_summary">クイックスイッチャーのアクションボタンを設定</string>
   <string name="speed_switch_items_summary">項目の最大数</string>
@@ -118,12 +123,16 @@
   <string name="one_day">1日</string>
   <string name="two_days">2日</string>
   <string name="one_week">1週間</string>
+  <string name="app_filter_time_title">アクティブするまで</string>
+  <string name="close_help">オーバーレイを閉じる</string>
   <string name="close">閉じる</string>
   <string name="thumb_size_title">サムネイルサイズ</string>
   <string name="thumb_size_normal">標準</string>
   <string name="thumb_size_small">小</string>
   <string name="thumb_size_medium">中</string>
   <string name="package_lock_task_title">アプリをピン止め</string>
+  <string name="lock_app_not_enabled">セキュリティの設定で画面の固定が有効になっていません</string>
+  <string name="app_filter_running_title">実行中のみ</string>
   <string name="menu">メニュー</string>
   <string name="menu_help">メニュー</string>
   <string name="enable_title">有効にする</string>
