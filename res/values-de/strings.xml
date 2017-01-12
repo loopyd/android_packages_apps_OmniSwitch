@@ -20,11 +20,11 @@
   <string name="package_stop_task_title">Stopp</string>
   <string name="package_inspect_item_title">App Info</string>
   <string name="start_on_boot_title">Beim Hochfahren starten</string>
-  <string name="start_on_boot_summary">Starten und beim Hochfahren des Geräts aktivieren</string>
+  <string name="start_on_boot_summary">Beim Hochfahren des Geräts starten und aktivieren</string>
   <string name="opacity_title">Deckkraft</string>
   <string name="opacity_summary">Hintergrund-Deckkraft in Überlagerungsansicht</string>
   <string name="animate_title">Animieren</string>
-  <string name="animate_title_summary">Animiation beim Anzeigen/Verstecken</string>
+  <string name="animate_title_summary">Animiation beim Anzeigen und Verstecken</string>
   <string name="adjust_handle_help">Verschieben und Größenänderung des Ziehgriffs</string>
   <string name="icon_size_normal">Normal</string>
   <string name="icon_size_small">Klein</string>
@@ -35,9 +35,9 @@
   <string name="drag_handle_color_title">Farbe</string>
   <string name="drag_handle_color_dialog_title">Farbe</string>
   <string name="service_background_processes"><xliff:g id="memory">%1$s</xliff:g> frei</string>
-  <string name="service_foreground_processes"><xliff:g id="memory">%1$s</xliff:g> benutzt</string>
+  <string name="service_foreground_processes"><xliff:g id="memory">%1$s</xliff:g> genutzt</string>
   <string name="show_rambar_title">Speicherauslastung anzeigen</string>
-  <string name="show_rambar_summary">Zeigt die Menge des freien und benutzten Speichers an</string>
+  <string name="show_rambar_summary">Anzeigen der Menge des freien und benutzten Speichers</string>
   <string name="show_app_labels">App-Namen anzeigen</string>
   <string name="show_app_labels_summary">Anwendungsname wird mit dem Symbol angezeigt</string>
   <string name="category_overlay_title">Überlagerung</string>
@@ -49,19 +49,19 @@
   <string name="favorite_add">Hinzufügen\u2026</string>
   <string name="location_left">Links</string>
   <string name="location_right">Rechts</string>
-  <string name="reset">Standart</string>
+  <string name="reset">Standard</string>
   <string name="toggle_last_app">Letzte Anwendung</string>
   <string name="toggle_last_app_help">Zur letzten App wechseln</string>
   <string name="kill_all_apps_help">Alle Apps beenden</string>
   <string name="kill_other_apps_help">Schließe andere Apps</string>
   <string name="settings_help">Einstellungen</string>
   <string name="home_help">Startseite</string>
-  <string name="kill_all_apps">Anwendung beenden</string>
+  <string name="kill_all_apps">Alle beenden</string>
   <string name="kill_other_apps">Andere schließen</string>
   <string name="settings">Einstellungen</string>
   <string name="home">Startseite</string>
-  <string name="buttons_title">Schaltflächen</string>
-  <string name="buttons_summary">Aktionstasten konfigurieren</string>
+  <string name="buttons_title">Tasten</string>
+  <string name="buttons_summary">Aktionstasten in Überblendungsansicht konfigurieren</string>
   <string name="auto_hide_handle">Automatisch ausblenden</string>
   <string name="auto_hide_handle_summary">Zweimal wischen, um Überlagerungsansicht anzuzeigen</string>
   <string name="no_recent_apps_title">Keine kürzlich geöffneten Apps</string>
