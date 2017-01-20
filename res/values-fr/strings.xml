@@ -56,7 +56,7 @@
   <string name="kill_other_apps_help">Arrêter les autres applications</string>
   <string name="settings_help">Paramètres</string>
   <string name="home_help">Accueil</string>
-  <string name="kill_all_apps">Forcer l\'arrêt de toutes les applications</string>
+  <string name="kill_all_apps">Arrêter toutes les applications</string>
   <string name="kill_other_apps">Arrêter les autres applications</string>
   <string name="settings">Paramètres</string>
   <string name="home">Accueil</string>
@@ -90,8 +90,8 @@
   <string name="kill_current_help">Arrêter l\'application actuelle</string>
   <string name="speed_switch_color_summary">Bleu - applications récentes. Vert - favoris. Rouge - actions</string>
   <string name="speed_switch_color">Couleurs du niveau d\'arrière plan</string>
-  <string name="speed_switch_limit_summary">Aire limite pour le changement de niveau</string>
-  <string name="speed_switch_limit">Aire limite de changement</string>
+  <string name="speed_switch_limit_summary">Zone de limite pour les changements de niveau</string>
+  <string name="speed_switch_limit">Zone du changement de niveau</string>
   <string name="speed_switch_button_title">Boutons</string>
   <string name="speed_switch_button_summary">Configurer les boutons d\'action dans la vue de basculement rapide</string>
   <string name="speed_switch_items_summary">Nombre maximal d’éléments par niveau</string>

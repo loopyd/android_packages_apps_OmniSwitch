@@ -17,7 +17,7 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="package_stop_task_title">Ukočit</string>
+  <string name="package_stop_task_title">Ukončit</string>
   <string name="package_inspect_item_title">Informace o aplikaci</string>
   <string name="start_on_boot_title">Spustit při startu</string>
   <string name="start_on_boot_summary">Start a spuštění zařízení</string>

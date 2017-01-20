@@ -70,6 +70,10 @@
   <string name="drag_handle_enable_summary">Dezactivați numai dacă utilizați altă metodă de activare</string>
   <string name="allapps_help">Aplicații</string>
   <string name="allapps">Aplicaţii</string>
+  <string name="dim_behind_title">Fundal întunecat</string>
+  <string name="dim_behind_summary">Aplica opacitate întregului ecran</string>
+  <string name="gravity_title">Gravitate orizontală</string>
+  <string name="gravity_center">Centru</string>
   <string name="one_day">1 zi</string>
   <string name="two_days">2 zile</string>
   <string name="one_week">1 săptămână</string>
