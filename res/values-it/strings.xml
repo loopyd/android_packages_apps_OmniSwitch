@@ -20,7 +20,7 @@
   <string name="package_stop_task_title">Interrompi</string>
   <string name="package_inspect_item_title">Info app</string>
   <string name="start_on_boot_title">Abilita all\'avvio</string>
-  <string name="start_on_boot_summary">Abilita all\'avvio del dispositivo</string>
+  <string name="start_on_boot_summary">Avvia e abilita all\'avvio del dispositivo</string>
   <string name="opacity_title">Opacità</string>
   <string name="opacity_summary">Opacità dello sfondo</string>
   <string name="animate_title">Animazione</string>
