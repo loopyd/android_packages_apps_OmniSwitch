@@ -70,7 +70,7 @@
   <string name="drag_handle_enable_summary">Desativado apenas se usares outro método de ativação</string>
   <string name="allapps_help">Gaveta de aplicações</string>
   <string name="allapps">Apps</string>
-  <string name="dim_behind_title">Dimensão do fundo</string>
+  <string name="dim_behind_title">Escurecer o fundo</string>
   <string name="dim_behind_summary">Aplicar opacidade ao ecrã completo</string>
   <string name="gravity_title">Gravidade horizontal</string>
   <string name="gravity_center">Centrado</string>
@@ -131,7 +131,7 @@
   <string name="thumb_size_small">Pequeno</string>
   <string name="thumb_size_medium">Médio</string>
   <string name="package_lock_task_title">Fixar aplicação</string>
-  <string name="lock_app_not_enabled">A fixação do ecrã não está ativada nas configurações de segurança</string>
+  <string name="lock_app_not_enabled">A fixação do ecrã não está ativada nas definições de segurança</string>
   <string name="app_filter_running_title">Apenas em execução</string>
   <string name="menu">Menu</string>
   <string name="menu_help">Menu</string>
@@ -149,7 +149,7 @@
   <string name="settings_button_text">Definições</string>
   <string name="wallpaper_button_text">Imagem de fundo</string>
   <string name="category_launcher_title">Modo do iniciador</string>
-  <string name="launcher_mode_summary">Executar OmniSwitch também como teu lançador. Após ativar o pressão no botão inicio, seleciona OmniSwitch</string>
+  <string name="launcher_mode_summary">Executar a OmniSwitch também como o seu lançador. Após ativar, pressione o botão inicio, seleciona OmniSwitch</string>
   <string name="launcher_mode_title">Ativar</string>
   <string name="launcher_mode_enable_check">Não é possível desativar se o modo de lançador estiver ativado. Será ativado novamente quando o modo de lançador for ativado</string>
   <string name="welcome_cling_header">Bem-vindo ao modo de lançador OmniSwitch</string>
