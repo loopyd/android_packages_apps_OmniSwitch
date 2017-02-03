@@ -19,13 +19,13 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="package_stop_task_title">Hentikan</string>
   <string name="package_inspect_item_title">Info aplikasi</string>
-  <string name="start_on_boot_title">Mulai pada boot</string>
+  <string name="start_on_boot_title">Mulai saat boot</string>
   <string name="start_on_boot_summary">Memulai dan mengaktifkan saat perangkat boot</string>
   <string name="opacity_title">Keburaman</string>
   <string name="opacity_summary">Kepekatan latar belakang dari tampilan overlay</string>
   <string name="animate_title">Animasi</string>
-  <string name="animate_title_summary">Animasi yang tampak ketika muncul dan disembunyikan</string>
-  <string name="adjust_handle_help">Penanganan gerak dan mengubah ukuran</string>
+  <string name="animate_title_summary">Animasi muncul dan sembunyi dari tampilan overlay</string>
+  <string name="adjust_handle_help">Memindah dan mengubah ukuran tuas tarikan</string>
   <string name="icon_size_normal">Normal</string>
   <string name="icon_size_small">Kecil</string>
   <string name="icon_size_large">Besar</string>
@@ -34,14 +34,14 @@
   <string name="cancel">Batal</string>
   <string name="drag_handle_color_title">Warna</string>
   <string name="drag_handle_color_dialog_title">Warna</string>
-  <string name="service_background_processes"><xliff:g id="memory">%1$s </xliff:g> bebas</string>
-  <string name="service_foreground_processes"><xliff:g id="memory">%1$s </xliff:g> digunakan</string>
+  <string name="service_background_processes"><xliff:g id="memori">%1$s </xliff:g> bebas</string>
+  <string name="service_foreground_processes"><xliff:g id="memori">%1$s </xliff:g> terpakai</string>
   <string name="show_rambar_title">Tampilkan penggunaan memori</string>
   <string name="show_rambar_summary">Menampilkan jumlah memori kosong dan terpakai</string>
-  <string name="show_app_labels">Tampilkan nama app</string>
+  <string name="show_app_labels">Tampilkan nama aplikasi</string>
   <string name="show_app_labels_summary">Nama aplikasi akan ditampilkan dengan ikon</string>
   <string name="category_overlay_title">Tampilan</string>
-  <string name="category_drag_handle_title">Proses penanganan ketika menarik obyek</string>
+  <string name="category_drag_handle_title">Tuas tarikan</string>
   <string name="category_favorite_title">Favorit</string>
   <string name="favorite_apps_config_title">Kelola favorit</string>
   <string name="favorite_apps_config_summary">Tentukan aplikasi yang terlihat pada tampilan favorit</string>
@@ -49,11 +49,11 @@
   <string name="favorite_add">Tambah\u2026</string>
   <string name="location_left">Kiri</string>
   <string name="location_right">Kanan</string>
-  <string name="reset">Default</string>
+  <string name="reset">Standar</string>
   <string name="toggle_last_app">Aplikasi terakhir</string>
   <string name="toggle_last_app_help">Beralih ke aplikasi terakhir</string>
   <string name="kill_all_apps_help">Matikan semua aplikasi</string>
-  <string name="kill_other_apps_help">Matikan aplikasi lain</string>
+  <string name="kill_other_apps_help">Matikan aplikasi lainnya</string>
   <string name="settings_help">Pengaturan</string>
   <string name="home_help">Halaman utama</string>
   <string name="kill_all_apps">Matikan semua</string>
