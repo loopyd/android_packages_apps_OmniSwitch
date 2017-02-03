@@ -74,6 +74,12 @@
   <string name="dim_behind_summary">Aplica opacitate întregului ecran</string>
   <string name="gravity_title">Gravitate orizontală</string>
   <string name="gravity_center">Centru</string>
+  <string name="gravity_drag">Trageţi mânerul lateral</string>
+  <string name="dialog_pick_iconpack_title">Alege pachetul de iconițe</string>
+  <string name="default_iconpack_title">Iconițe implicite</string>
+  <string name="icon_packs_title">Pachete de iconițe</string>
+  <string name="no_iconpacks_summary">Nu sunt instalate pachete de iconițe</string>
+  <string name="icon_pack_title">Pachete de iconițe</string>
   <string name="one_day">1 zi</string>
   <string name="two_days">2 zile</string>
   <string name="one_week">1 săptămână</string>
