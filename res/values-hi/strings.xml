@@ -81,6 +81,17 @@
   <string name="speed_switcher_enable_title">सक्षम करें</string>
   <string name="back">वापस</string>
   <string name="back_help">वापस जाएं</string>
+  <string name="one_hour">1 घंटा</string>
+  <string name="three_hours">3 घंटे</string>
+  <string name="six_hours">6 घंटे</string>
+  <string name="twelve_hours">12 घंटे</string>
+  <string name="one_day">1 दिन</string>
+  <string name="two_days">2 दिन</string>
+  <string name="one_week">1 सप्ताह</string>
+  <string name="close">बंद करें</string>
+  <string name="thumb_size_normal">सामान्य</string>
+  <string name="thumb_size_small">छोटा</string>
+  <string name="thumb_size_medium">मध्यम</string>
   <string name="lock_app_not_enabled">स्क्रीन पिन करना सुरक्षा सेटिंग्स में सक्षम नहीं है</string>
   <string name="app_filter_running_title">केवल चल रहा</string>
   <string name="menu">मेनू</string>

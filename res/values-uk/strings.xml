@@ -40,7 +40,7 @@
   <string name="show_rambar_summary">Відображати кількість вільної та використаної пам\'яті</string>
   <string name="show_app_labels">Показувати назву додатків</string>
   <string name="show_app_labels_summary">Ім\'я програми буде відображатися з ярликом</string>
-  <string name="category_overlay_title">Накладення</string>
+  <string name="category_overlay_title">Шари</string>
   <string name="category_drag_handle_title">Перетягніть маркер</string>
   <string name="category_favorite_title">Уподобання</string>
   <string name="favorite_apps_config_title">Керувати уподобанням</string>
@@ -61,7 +61,7 @@
   <string name="settings">Налаштування</string>
   <string name="home">Дім</string>
   <string name="buttons_title">Кнопки</string>
-  <string name="buttons_summary">Налаштування кнопок в режимі накладання</string>
+  <string name="buttons_summary">Налаштування кнопок в режимі шарів</string>
   <string name="auto_hide_handle">Приховувати автоматично</string>
   <string name="auto_hide_handle_summary">Подвійний свайп, щоб показати вид накладення</string>
   <string name="no_recent_apps_title">Немає запущених додатків</string>
@@ -124,7 +124,7 @@
   <string name="two_days">2 дні</string>
   <string name="one_week">1 тиждень</string>
   <string name="app_filter_time_title">Активно з</string>
-  <string name="close_help">Закрити накладення</string>
+  <string name="close_help">Закрити шари</string>
   <string name="close">Закрити</string>
   <string name="thumb_size_title">Розмір ескізів</string>
   <string name="thumb_size_normal">Нормальний</string>
@@ -143,7 +143,7 @@
   <string name="package_bottom_task_title">Внизу</string>
   <string name="package_right_task_title">Справа</string>
   <string name="package_full_task_title">Повний розмір</string>
-  <string name="shortcut_label_toggle_overlay">Увімкнути накладання</string>
+  <string name="shortcut_label_toggle_overlay">Увімкнути шари</string>
   <string name="adjust_handle_title_new">Налаштувати ручку</string>
   <string name="adjust_handle_summary">Налаштування позиції, розміру і кольору</string>
   <string name="settings_button_text">Налаштування</string>
