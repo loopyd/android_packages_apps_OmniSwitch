@@ -26,7 +26,7 @@
   <string name="animate_title">Animace</string>
   <string name="animate_title_summary">Skrytí a zobrazení animace panelu</string>
   <string name="adjust_handle_help">Přesun a změna velikosti úchytu přetažení</string>
-  <string name="icon_size_normal">Normalní</string>
+  <string name="icon_size_normal">Normální</string>
   <string name="icon_size_small">Malé</string>
   <string name="icon_size_large">Velké</string>
   <string name="icon_size_title">Velikost ikony</string>
@@ -127,7 +127,7 @@
   <string name="close_help">Zavřít překrytí</string>
   <string name="close">Zavřít</string>
   <string name="thumb_size_title">Velikost miniatur</string>
-  <string name="thumb_size_normal">Normalní</string>
+  <string name="thumb_size_normal">Normální</string>
   <string name="thumb_size_small">Malé</string>
   <string name="thumb_size_medium">Střední</string>
   <string name="package_lock_task_title">Připnout aplikaci</string>
