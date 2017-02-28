@@ -81,7 +81,7 @@
   <string name="no_iconpacks_summary">Aucun pack d\'icônes installé</string>
   <string name="icon_pack_title">Pack d\'icônes</string>
   <string name="icon_pack_summary">Utiliser le pack d\'icônes pour les applications</string>
-  <string name="category_speed_switcher_title">Quick Switcher</string>
+  <string name="category_speed_switcher_title">Basculement rapide</string>
   <string name="speed_switcher_enable_summary">Un appui long sur le halo d\'ouverture pour activer</string>
   <string name="speed_switcher_enable_title">Activer</string>
   <string name="back">Retour</string>
