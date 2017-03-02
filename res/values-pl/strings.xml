@@ -149,7 +149,7 @@
   <string name="settings_button_text">Ustawienia</string>
   <string name="wallpaper_button_text">Tapeta</string>
   <string name="category_launcher_title">Tryb Launchera</string>
-  <string name="launcher_mode_summary">Użyj OmniSwitch jako launchera. Po włączeniu naciśnij przycisk home i wybierz OmniSwitch</string>
+  <string name="launcher_mode_summary">Użyj OmniSwitch również jako launchera. Po włączeniu naciśnij przycisk home i wybierz OmniSwitch</string>
   <string name="launcher_mode_title">Włącz</string>
   <string name="launcher_mode_enable_check">Wyłączenie nie jest możliwe, jeśli aktywny jest tryb launchera. Zostanie włączone ponownie, gdy tryb launchera będzie aktywny</string>
   <string name="welcome_cling_header">Witaj w trybie launchera OmniSwitch</string>
